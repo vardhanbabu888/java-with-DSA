@@ -1,11 +1,11 @@
 # java-with-DSA
 Learning DSA with java
 Today's Home work 
-Basics of java
-control statements
-operators
-string with methods and function
-function
-oop's
-multithreading
-array
+1.Basics of java
+2.control statements
+3.operators
+4.string with methods and function
+5.function
+6.oop's
+7.multithreading
+8.array
