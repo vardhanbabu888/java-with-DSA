@@ -9,3 +9,13 @@ Today's Home work
 6. oop's
 7. multithreading
 8. array
+DSA:
+1. Array
+2. Linkedlist
+3. Stack
+4. Queue
+5. Trees
+6. Graph
+7. Sortiing Techniques
+8. Searching Techniques
+9. Algorithm
