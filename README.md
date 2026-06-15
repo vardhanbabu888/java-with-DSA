@@ -10,7 +10,7 @@ Today's Home work
 7. multithreading
 8. array
    
-##DSA Topics:
+## DSA Topics:
 1. Array
 2. Linkedlist
 3. Stack
